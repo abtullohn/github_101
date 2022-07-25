@@ -1,4 +1,11 @@
 Your answers go here!
 Please include your name and number your answers.
 ==================================================
-. git is just a folder with files.
+1. Linus Torvalds
+2. oversaw open source development of the widely-used Linux operating system.
+3. 2005
+4. git init
+5. transferring local respo to remote repos
+6. tells Git which files to ignore when committing your project to the GitHub repos
+7. to create a new process, which becomes the chld process of the caller. It's how you create a new process in Unix.
+8. clone is used when you want to download an existing git repos to your local computer.
